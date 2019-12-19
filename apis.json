@@ -1,0 +1,62 @@
+{
+    "name": "ImageVision",
+    "description": "Don't forget to press \"Like\" if you want to tag or comment any photos. Dran denken: Du mu\u00dft den \"gef\u00e4llt mir\"-Knopf klicken, wenn Du Fotos markieren, oder kommentieren m\u00f6chtest.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2013-imagevision.jpg",
+    "tags": [
+        "api provider",
+        "detection",
+        "have api",
+        "javascript"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/imagevision\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "ImageVision",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2013-imagevision.jpg",
+            "humanURL": "http:\/\/imagevision.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/imagevision-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.imagevisionlabs.com\/blog\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/imagevision"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/imagevision"
+        },
+        {
+            "type": "Email",
+            "url": "info@ImageVision.com"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/market.mashape.com\/imagevision\/face-detection-and-facial-features\/pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/imagevisionlabs"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/imagevision.com\/"
+        }
+    ]
+}
